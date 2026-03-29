@@ -1,7 +1,8 @@
 # lex-telegram: Telegram Bot API Integration for LegionIO
 
-**Repository Level 4 Documentation**
+**Repository Level 3 Documentation**
 - **Parent**: `/Users/miverso2/rubymine/legion/extensions-other/CLAUDE.md`
+- **Grandparent**: `/Users/miverso2/rubymine/legion/CLAUDE.md`
 
 ## Purpose
 
@@ -9,7 +10,7 @@ Legion extension for interacting with the Telegram Bot API. Supports sending, ed
 
 **GitHub**: https://github.com/LegionIO/lex-telegram
 **Gem**: `lex-telegram`
-**Version**: 0.1.0
+**Version**: 0.1.2
 **License**: MIT
 **Ruby**: >= 3.4
 
